@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+table,tr,td {background-color: #9aa987;
+             border-radius: 4px;
+             padding: 6px;}
+
+.img {text-align: center;}
+
+.name {font-family: 'Montserrat', sans-serif;
+       font-weight: 500;
+       font-size: 15px;
+       text-transform: uppercase;
+       color: #fcfef2;
+       letter-spacing: 3px;
+       text-align: left;
+       line-height: 15px;}
+
+.title {font-family: 'Montserrat', sans-serif;
+          font-weight: 400;
+          font-size: 12px;
+          color: #fcfef2}
+
+.details {font-family: 'Montserrat', sans-serif;
+          font-weight: 400;
+          font-size: 12px;
+          color: #fcfef2}
+
+.web {font-family: 'Montserrat', sans-serif;
+          font-weight: 600;
+          font-size: 12px;
+          color: #fcfef2}
+
